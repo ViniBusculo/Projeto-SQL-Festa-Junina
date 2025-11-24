@@ -41,6 +41,3 @@ Deleções seguras que respeitam integridade referencial.
    - `selects.sql`
    - `updates.sql`
    - `deletes.sql`
-
-## Autor
-Atividade realizada para disciplina de Banco de Dados.
